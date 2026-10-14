@@ -1,3 +1,4 @@
+#This is the initial working version
 num1 = float(input("num1: "))
 
 num2 = float(input("num2: "))
